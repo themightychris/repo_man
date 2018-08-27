@@ -1,0 +1,29 @@
+{
+  "name": "repo_man",
+  "version": "1.0.0",
+  "description": "Repo Man ============",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "@iarna/toml": "^2.0.0",
+    "@octokit/rest": "^15.10.0",
+    "mz": "^2.7.0",
+    "netrc": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thommay/repo_man.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thommay/repo_man/issues"
+  },
+  "homepage": "https://github.com/thommay/repo_man#readme"
+}
